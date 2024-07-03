@@ -37,22 +37,23 @@ const projectList = [
     url: "https://github.com/Hemlata3010/Website-Scrapping-Web-App",
   },
   {
-    title: "Web Development for Beginners",
+    title: "SkillsUp-with-Mentors",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "SkillsUp-with-Mentors: Empowering learners with personalized mentorship, expert guidance, and tailored skill development to achieve their career goals and maximize their potential."
+,
+    url: "https://github.com/Hemlata3010/SkillsUp-with-Mentors",
   },
   {
-    title: "My Resume Site",
+    title: "metroCard",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Streamlining urban travel with a convenient, contactless payment system for public transportation.",
+    url: "https://hemlata3010.github.io/metroCard.github.io/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "TinDog",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      " Crafting an engaging and responsive website for a dog dating app, enhancing user experience and connectivity for dog owners.",
+    url: "https://eransh1.github.io/TinDog/",
   },
 ];
 
