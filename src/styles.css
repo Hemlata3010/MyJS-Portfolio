@@ -12,6 +12,16 @@ body {
   overflow-x: hidden;
   padding: 0;
   width: 100%;
+    scroll-behavior: smooth;
+  
+}
+@keyframes slideInLeft {
+  0% {
+    transform: translateX(-100%);
+  }
+  100% {
+    transform: translateX(0);
+  }
 }
 
 div#main {
