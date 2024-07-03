@@ -32,7 +32,7 @@ const siteProps = {
   linkedIn: "Hemlata Bainsla",
   medium: "",
   twitter: "",
-  youTube: "Hemlata Bainsla",
+  youTube: "",
 };
 
 const primaryColor = "#4E567E";
