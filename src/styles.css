@@ -133,3 +133,65 @@ img.socialIcon {
   height: 30px;
   width: 30px;
 }
+
+
+
+/* education.css */
+
+.education-container {
+  max-width: 800px;
+  margin: 40px auto;
+  padding: 20px;
+  background-color: #f9f9f9;
+  border: 1px solid #ddd;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.title {
+  font-size: 24px;
+  font-weight: bold;
+  color: #333;
+  margin-bottom: 10px;
+}
+
+.description {
+  font-size: 18px;
+  color: #666;
+  margin-bottom: 20px;
+}
+
+.education-list {
+  margin-top: 20px;
+}
+
+.education-list h2 {
+  font-size: 18px;
+  font-weight: bold;
+  color: #333;
+  margin-bottom: 10px;
+}
+
+.education-list ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.education-list li {
+  padding: 10px;
+  border-bottom: 1px solid #ccc;
+}
+
+.education-list li:last-child {
+  border-bottom: none;
+}
+
+.education-list span {
+  display: block;
+  font-size: 16px;
+  color: #666;
+}
+
+.education-list span:first-child {
+  font-weight: bold;
+}
