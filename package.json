@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
   "source": "src/index.html",
-  "homepage": "https://Hemlata3010.github.io/hemlata3010/MyJS-Portfolio",
+  "homepage": "https://Hemlata3010.github.io/MyJS-Portfolio",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
