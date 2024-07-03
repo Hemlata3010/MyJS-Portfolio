@@ -21,6 +21,8 @@ import React from "react";
  */
 import image from "../images/bgg3.jpg";
 
+<img src={"/images/bgg3.jpg} style={{ height: "90%", width: "100%", objectFit: "cover", animation: "1s ease-out 0s 1 slideInLeft" }} />
+
 const imageAltText = "desktop with books and laptop";
 
 /**
