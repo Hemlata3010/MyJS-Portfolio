@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
   "source": "src/index.html",
-  "homepage": "https://Hemlata3010.github.io/MyJS-Portfolio",
+  "homepage": "https://hemlata3010.github.io/MyJS-Portfolio",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'https://{Hemlata3010}.github.io/{MyJS-Portfolio}'",
+    "build-gh": "parcel build --public-url 'https://{hemlata3010}.github.io/{MyJS-Portfolio}'",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },
