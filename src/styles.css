@@ -157,13 +157,13 @@ img.socialIcon {
 .title {
   font-size: 24px;
   font-weight: bold;
-  color: #333;
+  color: hsl(0, 90%, 49%);
   margin-bottom: 10px;
 }
 
 .description {
   font-size: 18px;
-  color: #666;
+  color: hwb(198 4% 11%);
   margin-bottom: 20px;
 }
 
@@ -174,7 +174,7 @@ img.socialIcon {
 .education-list h2 {
   font-size: 18px;
   font-weight: bold;
-  color: #333;
+  color: hsl(185, 93%, 51%);
   margin-bottom: 10px;
 }
 
@@ -186,7 +186,7 @@ img.socialIcon {
 
 .education-list li {
   padding: 10px;
-  border-bottom: 1px solid #ccc;
+  border-bottom: 1px solid hsl(67, 94%, 48%);
 }
 
 .education-list li:last-child {
@@ -196,7 +196,7 @@ img.socialIcon {
 .education-list span {
   display: block;
   font-size: 16px;
-  color: #666;
+  color: hsl(0, 95%, 51%);
 }
 
 .education-list span:first-child {
