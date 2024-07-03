@@ -69,7 +69,7 @@ h2 {
   font-weight: 400;
   margin: 0;
   padding-top: 1rem;
-  color: hsl(183, 94%, 51%);
+  color: hwb(3 5% 3%);
 }
 
 h3 {
